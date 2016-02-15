@@ -1,0 +1,8 @@
+body{
+      background: url('https://scontent.xx.fbcdn.net/hphotos-xla1/t31.0-8/12314334_908118445910466_320769309865055804_o.jpg') no-repeat center center fixed;
+      background-position: top;
+      -webkit-background-size: cover;
+      -moz-background-size: cover;
+      -o-background-size: cover;
+      background-size: cover;
+    }
